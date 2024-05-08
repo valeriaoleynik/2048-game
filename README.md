@@ -1,5 +1,5 @@
 # 2048 Game
-- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DEMO LINK](https://valeriaoleynik.github.io/2048-game/)
 
 ## DESCRIPTION
 This is my web-based implementation of the well-known game 2048.
