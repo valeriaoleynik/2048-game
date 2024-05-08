@@ -1,4 +1,22 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+
+## DESCRIPTION
+This is my web-based implementation of the well-known game 2048.
+
+Here are some rules of 2048:
+
+1. The game begins with two tiles already on the grid, each with a value of either 2 or 4.
+2. The player can move cells with keyboard arrows.
+3. Combine tiles with the same number to create larger numbers.
+4. After move 2 or 4 appears in a random empty cell.
+5. The game ends when 2048 value is displayed in any cel, or if there are no more available moves.
+
+
+## Technologies
+- HTML
+- SCSS
+- JavaScript
+
+REFERENCE
+![Preview](./src/images/reference.png)
