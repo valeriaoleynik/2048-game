@@ -18,5 +18,11 @@ Here are some rules of 2048:
 - SCSS
 - JavaScript
 
+## How to run
+1. Install node v14.21.3
+2. Clone git clone https://github.com/valeriaoleynik/2048-game.git
+3. Run npm install (or just npm i)
+4. Run npm start
+
 REFERENCE
 ![Preview](./src/images/reference.png)
